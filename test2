@@ -1,0 +1,11 @@
+<html>
+        <head>
+                <title> Git Exercise-6 </title>
+        </head>
+        <body>
+                <script>
+                        alert("Test 2");
+                </script>
+        </body>
+</html>
+
